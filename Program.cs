@@ -476,5 +476,17 @@ class Program{
         // shiftIndex si=new shiftIndex();
         // si.Shift();
 
+        // // Longest subsequence in the array
+        // LongestSubseq lss=new LongestSubseq();
+        // lss.Main();
+
+        // // Reverser a string 
+        // ReverseString rs= new ReverseString();
+        // rs.Main();
+
+        // // Palindrome Program
+        Palindrome p = new Palindrome();
+        p.Main();
+
     }
 }

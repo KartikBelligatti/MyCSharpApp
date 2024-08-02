@@ -12,3 +12,4 @@ C:\Users\EI13143\Desktop\c#\MyCSharpApp\obj\Debug\net7.0\refint\MyCSharpApp.dll
 C:\Users\EI13143\Desktop\c#\MyCSharpApp\obj\Debug\net7.0\MyCSharpApp.pdb
 C:\Users\EI13143\Desktop\c#\MyCSharpApp\obj\Debug\net7.0\MyCSharpApp.genruntimeconfig.cache
 C:\Users\EI13143\Desktop\c#\MyCSharpApp\obj\Debug\net7.0\ref\MyCSharpApp.dll
+C:\Users\EI13143\Desktop\c#\MyCSharpApp\obj\Debug\net7.0\MyCSharpApp.sourcelink.json
