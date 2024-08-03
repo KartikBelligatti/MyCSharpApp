@@ -226,8 +226,21 @@ class Program{
         // bs.Main();
 
         // // Character frequency program
-        CharacterFrequency cf = new CharacterFrequency();
-        cf.Main();
+        // CharacterFrequency cf = new CharacterFrequency();
+        // cf.Main();
+
+        // // Stack implementation with inbuilt function 
+        // inbuiltStack s = new inbuiltStack();
+        // s.Main();
+
+        // // Manual stack implementation
+        // manualStack s1 = new manualStack();
+        // s1.Main1();
+
+        // // Longest Common prefix program
+        LongestCommonPrefix l = new LongestCommonPrefix();
+        l.Main();
 
     }
 }
+
