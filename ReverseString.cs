@@ -1,12 +1,18 @@
 class ReverseString{
     public void Main(){
-        string str = "kartik";
-        char[] ch = str.ToCharArray();
-        string revstr = "";
+        string s = "  hello world  ";
+        
+        // Split the string into words
+        // string[] words = s.Split(' ');
+        string[] words = s.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
-        for(int i=ch.Length-1;i>=0;i--){
-            revstr+=ch[i];
-        }
-        Console.WriteLine(revstr);
+
+        // Reverse the array of words
+        Array.Reverse(words);
+
+        // Join the words back into a single string with spaces
+        string result = string.Join(" ", words);
+
+        Console.WriteLine(result);  
     }
 }

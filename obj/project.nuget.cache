@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "07WJdfcYuag=",
+  "dgSpecHash": "XVEp+5/77xs=",
   "success": true,
   "projectFilePath": "C:\\Users\\EI13143\\Desktop\\c#\\MyCSharpApp\\MyCSharpApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\EI13143\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\EI13143\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\EI13143\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "C:\\Users\\EI13143\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

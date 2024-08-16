@@ -238,9 +238,39 @@ class Program{
         // s1.Main1();
 
         // // Longest Common prefix program
-        LongestCommonPrefix l = new LongestCommonPrefix();
-        l.Main();
+        // LongestCommonPrefix l = new LongestCommonPrefix();
+        // l.Main();
+
+        // // Find the index of the substring in the main string
+        // Solution s = new Solution();
+        // s.StrStr("butsad", "sad");
+
+        // // Reverse Words in a String
+        // ReverseString r = new ReverseString();
+        // r.Main();
+
+        // // Zigzag string conversion
+        Zigzag z = new Zigzag();
+        z.Main();
+
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
